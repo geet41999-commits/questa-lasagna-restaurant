@@ -1,0 +1,6 @@
+{
+  "name": "Questa Lasagna | Fine Italian Gastronomy",
+  "description": "Artisanal regional Italian gastronomy, handmade daily pasta, and intimate dining in Mount Morris, NY under Executive Chef Michael Garcia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
